@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Linux": ["doc1"],
+    "Desafios": ["doc2"],
+    "Second Category": ["doc3"]
+  },
+  "docs-other": {
+    "Desafios": ["doc4", "doc5"]
+  }
+}
