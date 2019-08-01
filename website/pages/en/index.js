@@ -109,9 +109,9 @@ class Index extends React.Component {
               'To make your landing page more attractive, use illustrations! Check out ' +
               '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
               'The illustrations you see on this page are from unDraw.',
-            image: `${baseUrl}img/undraw_code_review.svg`,
+            image: `${baseUrl}img/bb8.png`,
             imageAlign: 'left',
-            title: 'Wonderful SVG Illustrations',
+            title: 'Aqui vai mostrar informações',
           },
         ]}
       </Block>
@@ -132,7 +132,7 @@ class Index extends React.Component {
     );
 
     const LearnHow = () => (
-      <Block background="light">
+      <Block background="dark">
         {[
           {
             content:
@@ -149,16 +149,16 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: 'This is the content of my feature',
+            content: 'Informações sobre implementação I',
             image: `${baseUrl}img/bb8.png`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: 'Implementação I',
           },
           {
-            content: 'The content of my second feature',
+            content: 'Informações sobre implementação II',
             image: `${baseUrl}img/bb8.png`,
             imageAlign: 'top',
-            title: 'Feature Two',
+            title: 'Implementação II',
           },
         ]}
       </Block>

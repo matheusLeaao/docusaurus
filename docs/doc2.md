@@ -1,6 +1,7 @@
 ---
-id: desafios
+id: doc2
 title: Desafio DevOps
+sidebar_label: Desafios
 ---
 &nbsp;
 

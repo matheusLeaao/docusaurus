@@ -14,7 +14,7 @@ const users = [
     caption: 'User1',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/bb8.png',
+    image: 'img/bb8.png',
     infoLink: 'https://www.facebook.com',
     pinned: true,
 
@@ -41,7 +41,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'doc1', label: 'Documentações'},
-    {doc: 'doc2', label: 'Desafios'},
+    //{doc: 'doc2', label: 'Desafios'},
     {page: 'help', label: 'Ajuda'},
     //{blog: true, label: 'Blog'},
   ],
@@ -99,8 +99,8 @@ const siteConfig = {
   
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
+  ogImage: 'img/bb8.png',
+  twitterImage: 'img/bb8.png',
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.

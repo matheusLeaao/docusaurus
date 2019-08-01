@@ -10,7 +10,8 @@
         "sidebar_label": "Comandos úteis de Linux"
       },
       "doc2": {
-        "title": "Desafio DevOps"
+        "title": "Desafio DevOps",
+        "sidebar_label": "Desafios"
       },
       "doc3": {
         "title": "This is document number 3"
@@ -24,12 +25,11 @@
     },
     "links": {
       "Documentações": "Documentações",
-      "Desafios": "Desafios",
       "Ajuda": "Ajuda"
     },
     "categories": {
       "Linux": "Linux",
-      "Desafios": "Desafios",
+      "Desafios DevOps": "Desafios DevOps",
       "Second Category": "Second Category"
     }
   },
